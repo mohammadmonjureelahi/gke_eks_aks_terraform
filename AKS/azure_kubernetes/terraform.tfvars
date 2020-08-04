@@ -1,0 +1,9 @@
+client_id                       = ""
+client_secret                   = ""
+ssh_public_key                  = "/root/Desktop/pubdir/azure_rsa.pub"
+environment                     = "dev"
+location                        = "eastus"
+node_count                      = 3
+dns_prefix                      = "k8stest"
+cluster_name                    = "k8stest"
+resource_group                  = "kubernetes"

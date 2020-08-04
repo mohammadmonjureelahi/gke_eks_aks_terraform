@@ -1,0 +1,8 @@
+# The below is the command to access the eks from asw cli
+# [root@cockpitcentos02 KUBERNETES]# aws configure
+# AWS Access Key ID [****************WYPZ]: 
+# AWS Secret Access Key [****************MTMM]:
+# Default region name [None]: us-east-1
+# Default output format [None]:
+#aws eks --region us-east-1 update-kubeconfig --name=in28minutes-cluster
+
